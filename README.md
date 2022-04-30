@@ -3,7 +3,7 @@ Select
 <ul>
   <li>    - [ ] Isidre 2   </li>
    <li>   - [ ] Veronika 3  </li>
-  <li>    - [ ] Adria 1,4 </li> 
+  <li>    - [X] Adria 1,4 </li> 
 </ul>
 
 
@@ -14,7 +14,11 @@ Act1
 
 ![act1_2](https://user-images.githubusercontent.com/9555509/166104948-a4823f18-b408-4a17-8074-a441acdb7824.png)
 </div>
+
 Act4
   <div align= "center">
     
+  ![act4](https://user-images.githubusercontent.com/9555509/166104975-94e5abc1-aa01-4dc4-801c-afd728e44fed.png)
+  
   </div>
+
